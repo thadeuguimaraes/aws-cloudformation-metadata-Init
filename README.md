@@ -363,4 +363,4 @@ e aqui, a esse respeito, a seção de criação de pilha de saídas, não vimos 
 Então, o que fizemos na próxima seção é que adicionamos a política de criação e então criamos uma nova pilha aqui. Já vimos isso.
 A formação da nuvem, disse Stack concluída apenas quando a instalação do aplicativo de software aplicativo foi concluída dentro do SC duas instância.
 Então passamos para ver se um aconteceu e discutimos em detalhes o que é KAF e qual é o seu intervalo, como ele vai funcionar, todas essas coisas em detalhes. vimos que o aplicativo V dois foi exibido. Uma coisa importante que notamos aqui é que CF e hub precisam ser feitos no intervalo de tempo. Então, o que significa que precisamos esperar até que o intervalo máximo seja o período de intervalo máximo para que nosso mudanças foram refletidas ou não serão conhecidas.
-Então, isso é sobre o alto nível que fizemos para a seção completa do cf init.
+Então, isso é sobre o alto nível que fizemos para a seção completa do cf init.# aws-cloudformatio-metadata-Init
