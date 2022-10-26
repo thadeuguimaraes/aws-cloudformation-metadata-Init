@@ -364,3 +364,5 @@ Então, o que fizemos na próxima seção é que adicionamos a política de cria
 A formação da nuvem, disse Stack concluída apenas quando a instalação do aplicativo de software aplicativo foi concluída dentro do SC duas instância.
 Então passamos para ver se um aconteceu e discutimos em detalhes o que é KAF e qual é o seu intervalo, como ele vai funcionar, todas essas coisas em detalhes. vimos que o aplicativo V dois foi exibido. Uma coisa importante que notamos aqui é que CF e hub precisam ser feitos no intervalo de tempo. Então, o que significa que precisamos esperar até que o intervalo máximo seja o período de intervalo máximo para que nosso mudanças foram refletidas ou não serão conhecidas.
 Então, isso é sobre o alto nível que fizemos para a seção completa do cf init.# aws-cloudformatio-metadata-Init
+
+![jira](https://user-images.githubusercontent.com/52017205/198094393-e78a52b2-4b83-42c1-80ed-90a45b5ba1d6.png)
